@@ -1,0 +1,55 @@
+{
+  "slug": "01-funcionalidades",
+  "title": "GTA 6: as funcionalidades que você precisa conhecer",
+  "series": "Funcionalidades",
+  "theme": "sunset",
+  "cards": [
+    {
+      "kicker": "Lançado em 19/11/2026",
+      "title": "5 funcionalidades de GTA 6",
+      "body": "O que mais chama atenção no novo jogo da Rockstar.",
+      "say": "GTA 6 finalmente chegou, e essas são as funcionalidades que mais chamam atenção."
+    },
+    {
+      "kicker": "01 · Cenário",
+      "title": "Leonida e a volta de Vice City",
+      "body": "Um estado inteiro inspirado na Flórida.",
+      "source": "Rockstar Games",
+      "say": "Primeiro: o cenário. O jogo se passa em Leonida, um estado inspirado na Flórida, com a volta de Vice City."
+    },
+    {
+      "kicker": "02 · Protagonistas",
+      "title": "Jason e Lucia",
+      "body": "Troque entre os dois no meio da missão.",
+      "source": "VGC (review, 18/11/2026)",
+      "say": "Segundo: dois protagonistas, Jason e Lucia. E você pode alternar entre os dois no meio das missões."
+    },
+    {
+      "kicker": "03 · Celular",
+      "title": "Redes sociais dentro do jogo",
+      "body": "App estilo Instagram, mensagens com o parceiro e scanner de carros.",
+      "source": "Kotaku (review, 18/11/2026)",
+      "say": "Terceiro: o celular virou parte do jogo. Tem aplicativo no estilo Instagram, mensagens com o parceiro, e até um app para escanear carros."
+    },
+    {
+      "kicker": "04 · Roubo de carros",
+      "title": "Ficou mais difícil",
+      "body": "Minigame para abrir a porta e carros com rastreador.",
+      "source": "Kotaku (review, 18/11/2026)",
+      "say": "Quarto: roubar carro ficou mais difícil. Agora tem minigame para abrir a porta, e alguns carros têm rastreador."
+    },
+    {
+      "kicker": "05 · Mundo vivo",
+      "title": "600+ lojas, fauna e caça",
+      "body": "Academias, golfe, pântanos com animais e polícia que se comunica pelo rádio.",
+      "source": "Kotaku (review, 18/11/2026)",
+      "say": "Quinto: o mundo está mais vivo. São mais de seiscentas lojas, academias e golfe. E tem animais selvagens nos pântanos, com direito a caça. Até a polícia troca informações pelo rádio."
+    },
+    {
+      "kicker": "E aí?",
+      "title": "Qual você quer testar primeiro?",
+      "body": "Comenta aqui embaixo.",
+      "say": "Qual dessas você quer testar primeiro? Comenta aí."
+    }
+  ]
+}

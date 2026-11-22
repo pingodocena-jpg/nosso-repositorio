@@ -1,0 +1,55 @@
+{
+  "slug": "03-gta5-vs-gta6",
+  "title": "GTA 5 vs GTA 6: o que mudou em 13 anos",
+  "series": "GTA 5 vs GTA 6",
+  "theme": "ocean",
+  "cards": [
+    {
+      "kicker": "2013 vs 2026",
+      "title": "GTA 5 vs GTA 6",
+      "body": "O que mudou em 13 anos.",
+      "say": "GTA 5 contra GTA 6: o que mudou em treze anos?"
+    },
+    {
+      "kicker": "Protagonistas",
+      "title": "3 contra 2",
+      "body": "Michael, Franklin e Trevor vs. Jason e Lucia, estilo Bonnie e Clyde.",
+      "say": "Protagonistas: GTA 5 tinha três, Michael, Franklin e Trevor. GTA 6 aposta em uma dupla, Jason e Lucia, no estilo Bonnie e Clyde."
+    },
+    {
+      "kicker": "Mapa",
+      "title": "Los Santos → Leonida",
+      "body": "Cerca de 2x maior que o mapa de GTA 5.",
+      "source": "Rockstar North via Sportskeeda",
+      "say": "Mapa: saímos de Los Santos para Leonida. E a Rockstar fala em um mapa cerca de duas vezes maior que o de GTA 5."
+    },
+    {
+      "kicker": "Animações",
+      "title": "55 mil → 600 mil+",
+      "body": "Mais de 10 vezes mais animações.",
+      "source": "Rockstar via GameSpot",
+      "say": "Animações: GTA 5 tinha cerca de cinquenta e cinco mil animações. GTA 6 passa de seiscentas mil animações."
+    },
+    {
+      "kicker": "Modo online",
+      "title": "GTA Online: ainda sem data",
+      "body": "GTA 5 ganhou o online 2 semanas após o lançamento. GTA 6 saiu só com o modo história.",
+      "source": "Vice (20/11/2026)",
+      "say": "Online: GTA 5 ganhou o GTA Online duas semanas depois do lançamento. GTA 6 saiu só com o modo história, e o online ainda não tem data."
+    },
+    {
+      "kicker": "Primeiro dia",
+      "title": "US$ 800 mi → US$ 3,79 bi",
+      "body": "Número de GTA 6 divulgado pela Take-Two.",
+      "source": "Forbes (20/11/2026)",
+      "say": "Primeiro dia: GTA 5 faturou cerca de oitocentos milhões de dólares. Segundo a Take-Two, GTA 6 fez três vírgula setenta e nove bilhões."
+    },
+    {
+      "kicker": "Plataformas",
+      "title": "Em tudo vs. só PS5 e Xbox Series",
+      "body": "PC de GTA 6 ainda sem data oficial. Fica com qual?",
+      "source": "Vice (20/11/2026)",
+      "say": "Plataformas: GTA 5 está em tudo. GTA 6, por enquanto, só no PS5 e no Xbox Series. E você, fica com qual?"
+    }
+  ]
+}

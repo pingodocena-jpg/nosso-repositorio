@@ -1,0 +1,56 @@
+{
+  "slug": "02-diferenciais",
+  "title": "O que GTA 6 tem de diferente de tudo",
+  "series": "Diferenciais",
+  "theme": "night",
+  "cards": [
+    {
+      "kicker": "Não é só mais um GTA",
+      "title": "O que GTA 6 tem de diferente",
+      "body": "5 coisas que a Rockstar nunca tinha feito assim.",
+      "say": "O que faz GTA 6 ser diferente de tudo que a Rockstar já fez?"
+    },
+    {
+      "kicker": "01 · Lucia",
+      "title": "Protagonista mulher na série principal",
+      "body": "A primeira desde a era 3D da franquia.",
+      "source": "LevelUp",
+      "say": "Primeiro: Lucia é a primeira protagonista mulher jogável da série principal desde a era 3D."
+    },
+    {
+      "kicker": "02 · Relacionamento",
+      "title": "A dupla muda a história",
+      "body": "Medidor de relacionamento e múltiplos finais.",
+      "source": "VGC (review, 18/11/2026)",
+      "say": "Segundo: a relação entre Jason e Lucia importa. Existe um medidor de relacionamento que muda a história, e o jogo tem múltiplos finais."
+    },
+    {
+      "kicker": "03 · Perfil criminal",
+      "title": "Profissional, endurecido... irredimível",
+      "body": "Suas escolhas deixam marca. E o último nível não tem volta.",
+      "source": "VGC (review, 18/11/2026)",
+      "say": "Terceiro: o perfil criminal. Suas escolhas te levam de profissional a endurecido, e você pode chegar a irredimível, sem volta."
+    },
+    {
+      "kicker": "04 · Combate",
+      "title": "Dá para não matar",
+      "body": "Inimigos podem ser neutralizados sem morrer.",
+      "source": "VGC (review, 18/11/2026)",
+      "say": "Quarto: dá para neutralizar inimigos sem matar."
+    },
+    {
+      "kicker": "05 · Escala",
+      "title": "600 mil+ animações",
+      "body": "História principal de cerca de 60 horas.",
+      "source": "Rockstar / VGC",
+      "say": "Quinto: a escala. Segundo a Rockstar, são mais de seiscentas mil animações. E, segundo a crítica, a história principal dura cerca de sessenta horas."
+    },
+    {
+      "kicker": "Metacritic",
+      "title": "Nota 99",
+      "body": "Empatado com Ocarina of Time como a maior da história. Você concorda?",
+      "source": "Metacritic via Vice (18/11/2026)",
+      "say": "O resultado: nota noventa e nove no Metacritic, empatando com Ocarina of Time como a maior da história. Você concorda com essa nota?"
+    }
+  ]
+}

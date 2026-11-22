@@ -1,0 +1,56 @@
+{
+  "slug": "04-reclamacoes",
+  "title": "As maiores reclamações de GTA 6 até agora",
+  "series": "Reclamações",
+  "theme": "alert",
+  "cards": [
+    {
+      "kicker": "Crítica: 99. Jogadores: nem tanto",
+      "title": "As reclamações de GTA 6",
+      "body": "O que a galera está criticando até agora.",
+      "say": "GTA 6 tirou noventa e nove da crítica, mas nem todo mundo está feliz. Essas são as maiores reclamações até agora."
+    },
+    {
+      "kicker": "01 · Desempenho",
+      "title": "30 fps até no PS5 Pro",
+      "body": "Sem modo 60 fps. A Rockstar diz que a CPU não dá conta.",
+      "source": "Kotaku / GamesRadar",
+      "say": "Um: trinta quadros por segundo em todos os consoles, até no PS5 Pro. A Rockstar diz que o processador não dá conta da simulação."
+    },
+    {
+      "kicker": "02 · Bugs",
+      "title": "Crashes e travamentos",
+      "body": "Relatos de crash no prólogo, softlock e personagens caindo pelo chão.",
+      "source": "LatinTimes (19/11/2026)",
+      "say": "Dois: bugs no lançamento. Jogadores relatam crashes no prólogo, travamentos e personagens caindo pelo chão."
+    },
+    {
+      "kicker": "03 · Plataformas",
+      "title": "Sem PC e sem online",
+      "body": "Nenhum dos dois tem data oficial.",
+      "source": "Vice (20/11/2026)",
+      "say": "Três: sem PC e sem online. A versão de PC não tem data oficial, e o multiplayer também não."
+    },
+    {
+      "kicker": "04 · Preço",
+      "title": "R$ 449,90",
+      "body": "Edição padrão no Brasil. A Ultimate sai por R$ 549,90.",
+      "source": "Exame",
+      "say": "Quatro: o preço. No Brasil, a edição padrão sai por quatrocentos e quarenta e nove reais e noventa centavos."
+    },
+    {
+      "kicker": "05 · Ritmo",
+      "title": "Nota dos usuários: 5,6",
+      "body": "Lento e focado em simulação de vida, dizem os jogadores. Há suspeita de review bombing.",
+      "source": "Metacritic via Yahoo (21/11/2026)",
+      "say": "Cinco: o ritmo. Parte dos jogadores achou o jogo lento e focado demais em simulação de vida. A nota dos usuários no Metacritic ficou em cinco vírgula seis, com suspeita de review bombing."
+    },
+    {
+      "kicker": "Fora do jogo",
+      "title": "34 demitidos e um sindicato",
+      "body": "O caso de perseguição sindical ainda aguarda decisão. Qual te incomoda mais?",
+      "source": "VGC / Fortune (nov/2026)",
+      "say": "E fora do jogo, a demissão de trinta e quatro funcionários, que o sindicato chama de perseguição. O caso ainda aguarda decisão na justiça. E você, qual dessas te incomoda mais?"
+    }
+  ]
+}
