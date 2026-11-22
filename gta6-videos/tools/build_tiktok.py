@@ -3,6 +3,8 @@
 Usage: python build_tiktok.py MPT_DIR OUT_DIR [slug ...]
 Needs pexels_api_keys (and/or pixabay_api_keys) set in MPT_DIR/config.toml.
 Env: VIDEO_SOURCE=pexels|pixabay (default pexels).
+Tip: in MPT_DIR/app/services/material.py set Pixabay "video_type" to "film" to skip
+cartoon/animation results.
 """
 import json
 import os
@@ -36,15 +38,15 @@ def main():
             "--video-concat-mode", "sequential",
             "--video-aspect", "9:16",
             "--video-clip-duration", "3",
-            "--video-transition-mode", "FadeIn",
+            "--video-transition-mode", "fade-in",
             "--voice-name", "pt-BR-AntonioNeural-Male",
             "--voice-rate", "1.15",
             "--bgm-type", "random",
             "--bgm-volume", "0.12",
             "--font-name", "BeVietnamPro-Bold.ttf",
-            "--font-size", "70",
+            "--font-size", "88",
             "--subtitle-position", "custom",
-            "--custom-position", "70",
+            "--custom-position", "72",
             "--subtitle-display-mode", "word_by_word",
             "--subtitle-animation", "pop_spring",
             "--text-fore-color", "#FFE14D",
