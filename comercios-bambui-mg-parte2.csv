@@ -1,4 +1,4 @@
-Nome,Categoria,Telefone,Tipo do telefone,Instagram,Endereço
+﻿Nome,Categoria,Telefone,Tipo do telefone,Instagram,Endereço
 Banco do Brasil - Ag. 522,Banco,(37) 4003-3001,Central (fixo),,"R. José Augusto Chaves, 468"
 Caixa Econômica Federal,Banco,4003-1043,Central (fixo),https://www.instagram.com/caixa,"R. José Augusto Chaves, 388"
 Sicoob Sarom,Cooperativa de crédito,(37) 3431-2145,Fixo,https://www.instagram.com/sicoob,"Av. Emanoel Dias, 160"
@@ -6,7 +6,7 @@ Sicoob Credibam,Cooperativa de crédito,(61) 4000-1111,Central,https://www.insta
 Unicred Evolução,Cooperativa de crédito,0800 000 5103,Central,https://www.instagram.com/unicred,"R. José Augusto Chaves, 369"
 Casa Lotérica Bambuiense,Lotérica,(37) 3431-2462,Fixo,,"R. Getúlio Vargas, 103"
 Hospital Nossa Senhora do Brasil,Hospital,(37) 3417-0241,Fixo,https://www.instagram.com/hospitalnsbrasil,"R. Dr. Mario Campos, 80"
-Casa de Saúde São Francisco de Assis (FHEMIG),Hospital,(37) 3431-6600,Fixo,https://www.instagram.com/redefhemig,"Fazenda da Lagoa"
+Casa de Saúde São Francisco de Assis (FHEMIG),Hospital,(37) 3431-6600,Fixo,https://www.instagram.com/redefhemig,Fazenda da Lagoa
 Clínica Sorrir é Vida,Clínica,(37) 3431-3768,Fixo,,"R. dos Expedicionários, 347"
 Clínica + Saúde,Clínica,(37) 3431-4336,Fixo,,"R. Dr. Dilermando Alves da Cunha, 406"
 Center Vida,Clínica,(37) 98827-1466,Celular (provável WhatsApp),,"R. Dr. Mario Campos, 21"
@@ -34,7 +34,7 @@ Laboratório Central,Laboratório,(37) 3431-2688,Fixo,https://www.instagram.com/
 Laboratório Bio Saúde,Laboratório,(37) 3431-1232,Fixo,,"Av. Armando Franco, 97"
 Dr. Gustavo Toledo,Dentista,(37) 3431-1798,Fixo,,"R. Padre José Tibúrcio, 242"
 Nayara Paulinelli / Dra. Andressa Ferreira,Dentista,(37) 99164-1089,Celular (provável WhatsApp),,"Av. Armando Franco, 76"
-Dr. Breno Guimarães,Dentista,(37) 99912-1545,Celular (WhatsApp confirmado),,"Praça Rui Barbosa"
+Dr. Breno Guimarães,Dentista,(37) 99912-1545,Celular (WhatsApp confirmado),,Praça Rui Barbosa
 Dra. Valéria Silveira,Dentista,(37) 99904-7749,Celular (provável WhatsApp),https://instagram.com/valeriabmsilveira,"R. Getúlio Vargas, 134"
 Dr. Rodrigo Consultório Odontológico,Dentista,(37) 99946-4080,Celular (provável WhatsApp),https://www.instagram.com/ri_odonto.oficial,"R. José Augusto Chaves, 625"
 Clínica Odontomed,Dentista,(37) 3431-1335,Fixo,,"R. Getúlio Vargas, 175"
@@ -81,9 +81,9 @@ Paulinelli Palace Hotel,Hotel,(37) 99861-1037,Celular (provável WhatsApp),,"R. 
 Hotel L&M,Hotel,(37) 99669-5202,Celular (provável WhatsApp),,"R. Jorge Saad, 380 - Rola Moça"
 Hotel Caxuxa Girassol,Hotel,(37) 99908-6465,Celular (provável WhatsApp),https://www.instagram.com/redecaxuxa,"Av. Indalécio Alvares Gonzalez, 1753"
 Pousada JBarcelos,Pousada,(37) 99935-3942,Celular (provável WhatsApp),https://www.instagram.com/pousadajbarcelosbambui,"R. Rodolfo José Chaves, 55"
-Pousada Teixeira,Pousada,(37) 99818-2242,Celular (provável WhatsApp),,"R. Getúlio Vargas (rotatória)"
-Colina Motel,Motel,(37) 99982-7961,Celular (provável WhatsApp),,"BR-354 km 417"
-Motel Casablanca - Bambuí,Motel,(37) 99962-0163,Celular (provável WhatsApp),https://www.instagram.com/motel_casablancabambui/,"BR-354 km 418"
+Pousada Teixeira,Pousada,(37) 99818-2242,Celular (provável WhatsApp),,R. Getúlio Vargas (rotatória)
+Colina Motel,Motel,(37) 99982-7961,Celular (provável WhatsApp),,BR-354 km 417
+Motel Casablanca - Bambuí,Motel,(37) 99962-0163,Celular (provável WhatsApp),https://www.instagram.com/motel_casablancabambui/,BR-354 km 418
 Eletrosom,Eletrodomésticos,(37) 3431-2301,Fixo,,"R. Getúlio Vargas, 63"
 Magazine Luiza,Eletro/móveis,(37) 3431-5900,Fixo,,"Praça Cel. Torres, 32"
 Magazine Bambuí (loja local),Loja,(37) 99829-7378,Celular (WhatsApp na bio),https://www.instagram.com/magazinebambui,"Praça Coronel Torres, 154"
@@ -105,7 +105,6 @@ WS Conserto,Assistência eletrodomésticos,(37) 99994-6242,Celular (provável Wh
 Refrigeração Zero Grau,Refrigeração,(37) 99968-7577,Celular (provável WhatsApp),,"R. Julinha Bahia, 60"
 EletroFrio Soluções,Refrigeração,(34) 99814-4151,Celular (DDD 34 - confirmar),,
 Climatech Climatização,Ar-condicionado,(37) 99904-0249,Celular (provável WhatsApp),,"R. José Bahia de Carvalho, 1167"
-Bayano Segurança Eletrônica,Câmeras/segurança,,,,"R. Francisco Silvestre Martins"
 Calçados Mariano,Calçados,(37) 3431-2762,Fixo,,"R. Ezequiel Dias, 197"
 Pezão Calçados,Calçados,(37) 99999-5056,Celular (número suspeito - confirmar),,"R. dos Expedicionários, 328"
 Flávio Calçados,Calçados,,,,"R. dos Expedicionários, 281"
@@ -142,7 +141,7 @@ Pacagnella Brinquedos,Brinquedos,(37) 3431-4711,Fixo,,"R. dos Expedicionários, 
 Útil e Fútil,Papelaria,(37) 3431-2478,Fixo,,"R. Antero Tôrres, 105"
 Karoline Papelaria,Papelaria,(37) 99957-0169,Celular (provável WhatsApp),,"R. do Comércio, 347"
 Produzire,Papelaria,(37) 99913-3739,Celular (provável WhatsApp),,"R. dos Expedicionários, 330"
-Papelaria e Aviamentos Rocha,Papelaria,(37) 99909-7047,Celular (provável WhatsApp),https://www.instagram.com/rocha.papelaria.aviamento,"R. Padre Antonio da Silva Vieira"
+Papelaria e Aviamentos Rocha,Papelaria,(37) 99909-7047,Celular (provável WhatsApp),https://www.instagram.com/rocha.papelaria.aviamento,R. Padre Antonio da Silva Vieira
 Sonho de Recorte,Papelaria personalizada,,,https://instagram.com/sonhoderecorte,"R. Sabará, 163"
 Ateliê DecorArt,Personalizados,(37) 99935-5579,Celular (provável WhatsApp),,"R. Heitor Luchesi, 117"
 Criarte Presentes Personalizados,Presentes,(37) 99999-1178,Celular (número suspeito - confirmar),https://www.instagram.com/criarte.personalize/,"R. Dr. Dilermando Alves da Cunha, 505"
@@ -150,7 +149,7 @@ Jú Personalizados,Etiquetas personalizadas,(37) 99949-8567,Celular (provável W
 Mini Shopping,Armarinho,(37) 3431-1181,Fixo,,"R. Getúlio Vargas, 75"
 Mundo das Festas,Artigos de festa,(37) 3431-3565,Fixo,,"R. Antero Tôrres, 47"
 Happy Day,Salão de festas,(37) 99906-4815,Celular (provável WhatsApp),,"Av. Armando Franco, 123"
-Espaço de Festa Sol Nascente,Espaço de festas,(37) 99916-0339,Celular (provável WhatsApp),,"R. Denival Teodoro"
+Espaço de Festa Sol Nascente,Espaço de festas,(37) 99916-0339,Celular (provável WhatsApp),,R. Denival Teodoro
 Bambuí Festas,Festas,,,https://www.instagram.com/bambuifestas,
 Tianna Salgados,Salgados/buffet,(37) 99843-4032,Celular (provável WhatsApp),,"R. João Domingos de Melo, 47"
 Central Foto,Fotografia,(37) 3431-3800,Fixo,,"R. dos Expedicionários, 340"
@@ -174,8 +173,8 @@ Barbershopteles,Barbearia,(37) 99926-2974,Celular (provável WhatsApp),,"R. Jos�
 Barbearia do Romarinho,Barbearia,(37) 99912-1591,Celular (provável WhatsApp),https://www.instagram.com/barbearia.do.romarinho,"R. Giocondo Mascote, 26A"
 Navalha's Barbearia,Barbearia,(37) 99801-3554,Celular (provável WhatsApp),,"R. Alzira Tôrres, 66"
 Barbearia Gomes (prótese capilar),Barbearia,(37) 99809-6759,Celular (provável WhatsApp),,"R. dos Expedicionários, 315"
-Barbearia Cortes'Top,Barbearia,(37) 99857-3524,Celular (provável WhatsApp),,"R. Albertino Gonçalves de Lima"
-Nisty Barbershop,Barbearia,(37) 99915-4732,Celular (provável WhatsApp),https://www.instagram.com/nisty_barbershop,"R. Roque Antônio da Silva"
+Barbearia Cortes'Top,Barbearia,(37) 99857-3524,Celular (provável WhatsApp),,R. Albertino Gonçalves de Lima
+Nisty Barbershop,Barbearia,(37) 99915-4732,Celular (provável WhatsApp),https://www.instagram.com/nisty_barbershop,R. Roque Antônio da Silva
 Thiago André Barbershop,Barbearia,(37) 99993-2034,Celular (provável WhatsApp),,"R. Francisco dos Santos, 231"
 Barbearia Imperial,Barbearia,(38) 99873-1911,Celular (DDD 38 - confirmar),,"R. Alzira Tôrres, 467"
 Império Vintage Club Barbearia,Barbearia,(37) 98841-1503,Celular (provável WhatsApp),,"R. Zizico Samuel, 190"
@@ -191,7 +190,7 @@ Camila Lacerda - Estética,Estética,(37) 99955-5459,Celular (provável WhatsApp
 Estética Transformando Corpos,Estética,(37) 99948-1553,Celular (WhatsApp confirmado),,"Praça Trajano Xavier Ribeiro, 54"
 Estética Júllia Marielle,Estética,(37) 99141-4958,Celular (provável WhatsApp),,"R. Goitacases, 190"
 Clínica de Estética Reinov,Estética,(37) 99982-2879,Celular (WhatsApp confirmado),,"R. Santos Dumont, 746"
-Regina Perotto Estética,Estética,,WhatsApp (link no perfil),,"Av. Indalécio Alves Gonzales"
+Regina Perotto Estética,Estética,,WhatsApp (link no perfil),,Av. Indalécio Alves Gonzales
 Viviane Araújo Estética & Beleza,Estética,,,,"R. Vig. Protázio, 123"
 Estética Thamara Martins,Estética,(37) 99903-6879,Celular (provável WhatsApp),,"R. João Araújo, 57"
 Bioclin Biomedicina Estética,Estética,(37) 99935-8685,Celular (provável WhatsApp),,"R. José Augusto Chaves, 687"
@@ -212,11 +211,11 @@ Bruno Lombardi Advogados,Advogados,(37) 99113-1229,Celular (provável WhatsApp),
 Jéssica Lopes Advocacia,Advogada,(37) 99966-9916,Celular (provável WhatsApp),,"R. dos Expedicionários, 356"
 Souza Veloso Advocacia Previdenciária,Advogados,(37) 99801-1156,Celular (provável WhatsApp),,"R. Dr. Dilermando Alves da Cunha, 515"
 Prado & Cardoso Advogados,Advogados,(37) 3431-1487,Fixo,,"R. Padre José Tibúcio, 92"
-Renata Faria - Correspondente jurídico,Advogada,(37) 99923-6788,Celular (provável WhatsApp),,"R. Manoel Bento"
+Renata Faria - Correspondente jurídico,Advogada,(37) 99923-6788,Celular (provável WhatsApp),,R. Manoel Bento
 Waleria Ellen Dornela,Advogada,(37) 3431-2265,Fixo,,"R. José Augusto Chaves, 245"
 Afonso Luís Castelar Brito,Advogado,(37) 3431-1441,Fixo,,"R. Getúlio Vargas, 4"
 Rodrigo de Paula Advocacia,Advogado,(37) 99951-1905,Celular (provável WhatsApp),,"R. Santo Antônio, 292"
-Dr. Gustavo de Castro Torres,Advogado,(37) 3431-1218,Fixo,,"R. Getúlio Vargas"
+Dr. Gustavo de Castro Torres,Advogado,(37) 3431-1218,Fixo,,R. Getúlio Vargas
 Adriana dos Reis Rodrigues,Advogada,(37) 99996-4199,Celular (provável WhatsApp),,"R. José Augusto Chaves, 523"
 Antonio Carlos Rita,Advogado,(37) 99845-6446,Celular (provável WhatsApp),,"R. Armando Franco, 202"
 SVTB Advogados,Advogados,(37) 99902-0244,Celular (provável WhatsApp),,"R. Padre José Tibúcio, 33"
@@ -246,12 +245,12 @@ Mural Pedras,Pedras,(37) 3431-5006,Fixo,,"R. José Bahia de Carvalho, 960"
 Marmoraria HL,Marmoraria,(37) 99918-4936,Celular (provável WhatsApp),,"R. Odorico Martins Resende, 715"
 Marmoraria Pirâmide,Marmoraria,(37) 99924-3749,Celular (provável WhatsApp),,"R. Ivo de Oliveira, 171"
 S.A Vidros,Vidraçaria,(37) 99943-5073,Celular (provável WhatsApp),,"R. Juca Nunes, 288"
-Vidro Box,Vidraçaria,(37) 99982-2590,Celular (provável WhatsApp),,"R. Francisco dos Santos"
+Vidro Box,Vidraçaria,(37) 99982-2590,Celular (provável WhatsApp),,R. Francisco dos Santos
 Vidro Dias,Vidraçaria,(37) 3431-3920,Fixo,,"R. Alzira Tôrres, 590"
 Vidraçaria Ferreira,Vidraçaria,(37) 3431-1350,Fixo,,"R. Dr. Dilermando Alves da Cunha, 146"
 Vitrine Vidros e Decoração,Vidraçaria,(37) 3431-3524,Fixo,,"R. Santos Dumont, 1055"
 Alumináutica,Esquadrias,(37) 99961-3306,Celular (provável WhatsApp),,"R. Boa Vista, 667"
-Stander Fechamentos,Acrílicos/fechamentos,(37) 99958-5846,Celular (provável WhatsApp),,"R. José Elias Chaves"
+Stander Fechamentos,Acrílicos/fechamentos,(37) 99958-5846,Celular (provável WhatsApp),,R. José Elias Chaves
 Zaca Serviços,Hidráulica,(37) 99941-3903,Celular (provável WhatsApp),,
 Gráfica Leal Off Set,Gráfica,(37) 3431-1322,Fixo,,"Av. Armando Franco, 143"
 Aludra Gráfica Rápida,Gráfica,(37) 99997-9719,Celular (provável WhatsApp),,"R. dos Expedicionários, 153"
@@ -296,7 +295,7 @@ City Car Peças e Acessórios,Autopeças,(37) 3431-3658,Fixo,,"R. José Bahia de
 Só Diesel Autopeças,Autopeças,(37) 99862-9112,Celular (provável WhatsApp),,"R. Tiradentes, 757"
 Agripeças Bambuí,Autopeças,(37) 3431-4072,Fixo,,
 Cermaq,Autopeças,(37) 3431-2306,Fixo,,
-Ferro Velho Mega Desmanche,Peças usadas,(37) 99825-4784,Celular (provável WhatsApp),,"R. José Bahia de Carvalho"
+Ferro Velho Mega Desmanche,Peças usadas,(37) 99825-4784,Celular (provável WhatsApp),,R. José Bahia de Carvalho
 Mercadão das Baterias,Baterias,(37) 3431-3655,Fixo,,"R. Herculino Porto, 48"
 Stop Car Som e Acessórios,Som automotivo,(37) 99951-4068,Celular (provável WhatsApp),,
 Áudio Car Som e Acessórios,Som automotivo,(37) 99908-5719,Celular (provável WhatsApp),,"R. Antônio Teixeira de Andrade, 594"
@@ -307,7 +306,7 @@ Lavador Do Douglas,Lava-jato,(37) 99912-5036,Celular (provável WhatsApp),,"R. S
 Lavador 5 Estrela,Lava-jato,(37) 99953-2369,Celular (provável WhatsApp),,"R. Santos Dumont, 743"
 BiBOX Lavajato,Lava-jato,(37) 99928-9894,Celular (provável WhatsApp),,"Av. João Paolinelli de Carvalho, 225"
 Lavador dos Morenos,Lava-jato,,,,"R. Dejanira Silva Costa, 85"
-Lavador do Geraldo,Lava-jato,,,,"R. Francisco Silvestre Martins"
+Lavador do Geraldo,Lava-jato,,,,R. Francisco Silvestre Martins
 Lavador e Disk Caçamba São Cristóvão,Lava-jato/caçamba,,,,"R. Dr. Mario Campos, 31"
 Top Car Estética Automotiva,Lava-jato,,,,
 Agropec Produtos e Serviços Veterinários,Agropecuária/veterinária,(37) 3431-1882,Fixo,https://www.instagram.com/agropeccsa,"R. Ezequiel Dias, 113"
@@ -323,7 +322,7 @@ MaisPet - Dra. Sara Lourença,Veterinária,(37) 99999-2873,Celular (número susp
 Patas e Pelos,Veterinário,(37) 99805-7624,Celular (provável WhatsApp),https://www.instagram.com/csapatasepelos,"R. Lindolfo Chaves, 50"
 Maria Eduarda Veterinária a Domicílio,Veterinária,(37) 99967-8827,Celular (provável WhatsApp),https://www.instagram.com/mariaedu_vet/,
 Selaria Coimbra,Selaria,(37) 3431-3445,Fixo,,"R. Francisco Silvestre Martins, 5"
-Funerária / Velório Municipal,Serviço funerário,,,,"R. Antônio Camilo Cunha"
+Funerária / Velório Municipal,Serviço funerário,,,,R. Antônio Camilo Cunha
 Bar e Lanchonete do Saulo,Bar,(37) 99928-0235,Celular (provável WhatsApp),,"Av. Neysson Paulinelli de Oliveira, 904"
 Cervejaria Escadinha,Bar,(37) 99969-5153,Celular (provável WhatsApp),,"R. Santos Dumont, 382"
 Coronel Bier,Bar com música ao vivo,(37) 3431-5235,Fixo,,"R. dos Expedicionários, 52"
@@ -336,7 +335,7 @@ Esquina do Sabor,Bar e grill,(37) 99931-9467,Celular (provável WhatsApp),,"R. S
 Relíquias Bar / Bar do Trauko / Bar do Nelico / Bar do Aldeni,Bares,,,,Vários endereços (sem telefone no Maps)
 Hangar 142 Bar & Restaurante,Bar/restaurante,(37) 99860-3490,Celular (WhatsApp/delivery),https://www.instagram.com/hangarbar142,"Av. João Paolinelli de Carvalho, 119"
 Pizzaria Ricardo,Pizzaria,,Delivery (link na bio),https://www.instagram.com/pizzaria.ricardo,
-PP Lanches,Lanchonete,(37) 3431-2139,Fixo,,"Av. Armando Franco"
+PP Lanches,Lanchonete,(37) 3431-2139,Fixo,,Av. Armando Franco
 Bom Lanche,Lanchonete,(37) 99824-3246,Celular (provável WhatsApp),,"R. Armando Franco, 190"
 Holliday Lanches,Lanchonete,(37) 3431-2876,Fixo,,
 Jefim Lanches,Lanchonete,(37) 99963-5595,Celular (provável WhatsApp),,"Av. Armando Franco, 65"
@@ -346,8 +345,8 @@ Trailer do Zé Gordo,Lanchonete,(37) 99902-4789,Celular (provável WhatsApp),,"R
 Pastelaria Bom Pastel,Pastelaria,(37) 99824-3558,Celular (provável WhatsApp),,"R. dos Expedicionários, 188"
 X10 Burger,Hamburgueria,(37) 99816-4911,Celular (provável WhatsApp),,
 Hamburgueria WL,Hamburgueria,,Delivery (link),,"R. Cesário Barbacena, 80"
-Cafeteria Dona Elza,Cafeteria,,,,"R. dos Expedicionários"
-Pesque e Pague do Galeno,Pesque-pague,(37) 99949-1486,Celular (provável WhatsApp),,"R. Osvaldo C. de Macedo"
+Cafeteria Dona Elza,Cafeteria,,,,R. dos Expedicionários
+Pesque e Pague do Galeno,Pesque-pague,(37) 99949-1486,Celular (provável WhatsApp),,R. Osvaldo C. de Macedo
 Açaí Mania / Point do Açaí,Açaí,(37) 99828-8562,Celular (provável WhatsApp),,"R. Rodolfo José Chaves, 63"
 Açaí da Milla,Açaí,(37) 99943-6203,Celular (provável WhatsApp),,"Av. Jorge Habib, 92"
 Açaí do Pepeu,Açaí,(37) 99862-8315,Celular (provável WhatsApp),,"R. Goitacases, 152"
@@ -355,7 +354,7 @@ Sorveteria do Jesus (desde 1971),Sorveteria,(37) 99916-4085,Celular (provável W
 Sorveteria do Jilo,Sorveteria,(31) 97145-2385,Celular (DDD 31 - confirmar),,"R. Alzira Tôrres, 205"
 Tropzz Bambuí,Sorveteria,(37) 99916-8086,Celular (provável WhatsApp),,"R. José Augusto Chaves, 404"
 Mr. Bean,Sorveteria,(37) 99909-4120,Celular (provável WhatsApp),,"Praça Antônio Carlos, 85"
-Battuta,Sorveteria,,,,"R. dos Expedicionários"
+Battuta,Sorveteria,,,,R. dos Expedicionários
 Açougue Carvalho,Açougue,(37) 3431-3303,Fixo,,"R. Antero Tôrres, 384"
 Açougue do Ló,Açougue,(37) 3431-1206,Fixo,,"R. Antero Tôrres, 22"
 Casa de Carnes GH,Açougue,(37) 3431-5016,Fixo,,"R. Boa Vista, 616"

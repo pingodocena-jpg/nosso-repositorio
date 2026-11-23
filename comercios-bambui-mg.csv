@@ -1,6 +1,6 @@
-Nome,Categoria,Telefone,Tipo do telefone,Instagram,Endereço
+﻿Nome,Categoria,Telefone,Tipo do telefone,Instagram,Endereço
 Supermercado Sion,Supermercado,(37) 3417-1119,Fixo,,"R. Irê Torres, 256 - Candolas"
-Supermercados BH,Supermercado,,,,"MG-429"
+Supermercados BH,Supermercado,,,,MG-429
 Supermercado Opção,Supermercado,(37) 3431-2483,Fixo,,"R. Antero Tôrres, 165"
 Supermercado Opção (loja 2),Supermercado,(37) 99957-9279,Celular (provável WhatsApp),,"R. do Comércio, 476"
 Supermercado do Paulinho Cerrado,Supermercado,(37) 3431-1209,Fixo,,"R. Padre Domingos, 316"
@@ -19,12 +19,12 @@ Mercearia Lava Pés,Mercearia,(37) 3431-2822,Fixo,,"R. Alzira Tôrres, 536"
 Mercearia Ideal,Mercearia,(37) 3431-4824,Fixo,,"R. Olímpio José Chaves, 298"
 Supermercados Oeste Minas Açudes,Supermercado,(37) 3431-3261,Fixo,,"R. Olhos D'Água, 330"
 Supermercados Oeste Minas Candola,Supermercado,(37) 3431-3261,Fixo,,"R. Olhos D'Água, 690"
-Super Primo II,Supermercado,(37) 3417-1430,Fixo,,"R. Vitorino Gomes da Silva"
+Super Primo II,Supermercado,(37) 3417-1430,Fixo,,R. Vitorino Gomes da Silva
 Comercial Super Primo,Hipermercado,(37) 3431-3396,Fixo,,"Av. Jorge Habib, 333"
 Armazém São Geraldo,Supermercado,(37) 3431-1505,Fixo,,"R. Antônio dos São Moreira, 180"
 Hiper ABC Bambuí,Supermercado,(37) 3417-0075,Fixo,https://www.instagram.com/supermercadosabc,"R. Dr. Dilermando Alves da Cunha, 375"
 Drugstore ABC,Farmácia,(37) 99815-3682,Celular (provável WhatsApp),https://www.instagram.com/supermercadosabc,"R. Dr. Dilermando Alves da Cunha, 375 - Loja 02"
-FASF Gourmet,Açougue gourmet,(37) 3431-3490,Fixo,,"R. do Comércio"
+FASF Gourmet,Açougue gourmet,(37) 3431-3490,Fixo,,R. do Comércio
 Requeijão Caseiro,Alimentos,(37) 98814-6084,Celular (provável WhatsApp),,"R. Sete de Setembro, 310"
 Lojas Luma,Roupas,(37) 3431-5072,Fixo,,"R. dos Expedicionários, 206"
 Loja Xavier Country,Roupas,(37) 99864-3366,Celular (provável WhatsApp),,"R. Boa Vista, 195 - Gabiroba"
@@ -92,14 +92,14 @@ Panificadora da Sol / Marisol,Padaria,,,,"R. Gil Torres, 271"
 Padaria Skala,Padaria,,,,"R. Alzira Tôrres, 255"
 Panificadora W&N,Padaria,(37) 3431-1004,Fixo,,"R. do Comércio, 3"
 Panificadora Liberal,Padaria,,,,"R. do Comércio, 7"
-JM Padaria (Julimara),Padaria,(37) 99802-8652,Celular (provável WhatsApp),,"R. João Soares de Melo"
+JM Padaria (Julimara),Padaria,(37) 99802-8652,Celular (provável WhatsApp),,R. João Soares de Melo
 Padaria Barcelos,Padaria,(37) 99921-6049,Celular (provável WhatsApp),,"R. do Comércio, 530"
 Empório da Fazendinha,Padaria,(37) 99928-6673,Celular (provável WhatsApp),https://www.instagram.com/emporio.da.fazendinha,"Av. Jorge Habib, 573"
 Livia Confeitaria,Confeitaria,(37) 99953-3638,Celular (provável WhatsApp),,"R. José Caetano de Oliveira, 573"
 K-Doçuras Confeitaria,Confeitaria,,,,"R. Padre José Tibúcio, 262"
 WM Sucré & Amour,Confeitaria,(37) 99803-6702,Celular (provável WhatsApp),https://instagram.com/wmsucreamour,"R. Lindolfo Chaves, 112"
 Uai Vida,Doceria,(31) 99270-8280,Celular (provável WhatsApp),https://www.instagram.com/uaividabrasil,
-Açaí Trem Bão,Açaí,(37) 99815-3464,Celular (WhatsApp confirmado no site),,"R. Boa Vista"
+Açaí Trem Bão,Açaí,(37) 99815-3464,Celular (WhatsApp confirmado no site),,R. Boa Vista
 Oca e Baguet's,Sorveteria/lanchonete,(37) 99927-4490,Celular (provável WhatsApp),https://www.instagram.com/ocabambui/,"Praça Rui Barbosa, 14"
 L'A Villa Gourmet,Restaurante,(37) 99876-7611,Celular (provável WhatsApp),,"R. Goiás, 116 - Candolas"
 Casa Velha Bistrô e Creperia,Creperia,(37) 3431-5252,Fixo,,
@@ -143,8 +143,7 @@ Salão Luciana Alves,Salão de beleza,(37) 99826-7770,Celular (provável WhatsAp
 Salão Mary,Salão de beleza,(37) 99964-6953,Celular (provável WhatsApp),(Facebook) http://www.facebook.com/salaomary,"R. Virgílio Cruz Miranda, 15"
 Salão Clara Melo,Salão de beleza,(18) 99636-1678,Celular (DDD 18 - confirmar),,"R. Antônio Chaves, 239"
 Unhas by Naiara,Manicure,,,,"R. Ezequiel Dias, 204"
-Glenia Faria,Salão de beleza,(37) 99907-4864,Celular (provável WhatsApp),,"R. Rodolfo José Chaves, 96"
-Studio Natalia Vieira,Salão de beleza,(37) 99833-6511,Celular (provável WhatsApp),,"R. Antonio Chaves de Magalhães"
+Studio Natalia Vieira,Salão de beleza,(37) 99833-6511,Celular (provável WhatsApp),,R. Antonio Chaves de Magalhães
 Studio Delayne Rocha,Salão de beleza,(37) 99864-4926,Celular (provável WhatsApp),,"R. José Pereira Santiago, 1"
 O Salão Espaço Mulher (Poliana Martins),Salão de beleza,(37) 99937-6545,Celular (provável WhatsApp),https://www.instagram.com/o.salaoespacomulher,"R. Lindolfo Chaves, 833"
 Madmoselle Mara,Salão de beleza,(37) 99871-1324,Celular (provável WhatsApp),https://www.instagram.com/madmoselle_mara/,"R. Dona Mariquinha Borges, 338"
@@ -154,10 +153,10 @@ Auto Elétrica Luisão,Oficina,(37) 99966-7559,Celular (provável WhatsApp),,"R.
 Lanternagem Nossa Senhora Aparecida,Oficina,(37) 99946-1636,Celular (provável WhatsApp),,"R. Timbiras, 297"
 City Car Auto Center,Alinhamento/balanceamento,(37) 3431-4153,Fixo,,Rua José Bahia de Carvalho
 WE Mecânica Diesel,Oficina,(37) 99904-4596,Celular (provável WhatsApp),,"R. Roque Antônio da Silva, 41"
-Auto Mecânica São Judas Tadeu,Oficina,(37) 3431-3536,Fixo,,"R. José Rodrigues da Mota"
+Auto Mecânica São Judas Tadeu,Oficina,(37) 3431-3536,Fixo,,R. José Rodrigues da Mota
 Auto Mecânica Avenida,Oficina,(37) 3431-3559,Fixo,,"Av. Emanoel Dias, 125"
 Moto Nena,Oficina de motos,(37) 3431-3526,Fixo,,"R. Alzira Tôrres, 140"
-Mecânica São José,Oficina,(37) 99937-1061,Celular (provável WhatsApp),,"R. Cap. Joaquim Magalhães"
+Mecânica São José,Oficina,(37) 99937-1061,Celular (provável WhatsApp),,R. Cap. Joaquim Magalhães
 Box Automotivo,Oficina,(37) 3431-5258,Fixo,,"R. Santos Dumont, 1125"
 Garcia Auto Center,Oficina,(34) 3117-50 (número incompleto - confirmar),,,"R. José Bahia de Carvalho, 745"
 Mecânica Diesel,Oficina,(37) 3431-4738,Fixo,,"R. Modesto Cesário Campos, 44"
@@ -169,7 +168,7 @@ Borrachamotos,Oficina,(37) 3431-3725,Fixo,,"R. Alzira Tôrres, 498"
 Centro Automotivo Diamond,Oficina,(37) 3417-1097,Fixo,,"R. Padre João Veloso, 186"
 Oficina Garage Pintura Automotiva,Pintura automotiva,(37) 99835-7921,Celular (provável WhatsApp),,"R. Prisciliana Tôrres, 120"
 Lanternagem do Maninho,Lanternagem,(37) 99918-8206,Celular (provável WhatsApp),,"R. Alzira Tôrres, 1367"
-LC Manutenção,Oficina,(37) 99867-5793,Celular (provável WhatsApp),,"R. Santos Dumont"
+LC Manutenção,Oficina,(37) 99867-5793,Celular (provável WhatsApp),,R. Santos Dumont
 Bira Car,Oficina,(37) 99989-1834,Celular (provável WhatsApp),,"R. Joãozinho Paulinelli, 187"
 Lanternagem Arrumicar,Pintura automotiva,(37) 99969-5010,Celular (provável WhatsApp),,"R. Francisco Silvestre Martins, 329"
-Prime AutoCenter,Oficina,(37) 99873-8423,Celular (provável WhatsApp),https://www.instagram.com/primeautocentergyn/,"R. Alzira Tôrres"
+Prime AutoCenter,Oficina,(37) 99873-8423,Celular (provável WhatsApp),https://www.instagram.com/primeautocentergyn/,R. Alzira Tôrres
